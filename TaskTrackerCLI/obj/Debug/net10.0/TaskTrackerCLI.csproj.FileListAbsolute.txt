@@ -1,0 +1,15 @@
+/workspaces/task-tracker/TaskTrackerCLI/bin/Debug/net10.0/TaskTrackerCLI
+/workspaces/task-tracker/TaskTrackerCLI/bin/Debug/net10.0/TaskTrackerCLI.deps.json
+/workspaces/task-tracker/TaskTrackerCLI/bin/Debug/net10.0/TaskTrackerCLI.runtimeconfig.json
+/workspaces/task-tracker/TaskTrackerCLI/bin/Debug/net10.0/TaskTrackerCLI.dll
+/workspaces/task-tracker/TaskTrackerCLI/bin/Debug/net10.0/TaskTrackerCLI.pdb
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.AssemblyInfoInputs.cache
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.AssemblyInfo.cs
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.csproj.CoreCompileInputs.cache
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.sourcelink.json
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.dll
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/refint/TaskTrackerCLI.dll
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.pdb
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/TaskTrackerCLI.genruntimeconfig.cache
+/workspaces/task-tracker/TaskTrackerCLI/obj/Debug/net10.0/ref/TaskTrackerCLI.dll
